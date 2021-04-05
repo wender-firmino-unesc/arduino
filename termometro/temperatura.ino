@@ -1,3 +1,9 @@
+/*
+*  Temperatura
+*  Código Arduino para simular um display que informa a temperatura atual
+*  Autor: Prof. Wender Firmino - wender@unesc.net
+*/
+
 #include <SPI.h>
 #include <Wire.h>
 #include <Adafruit_GFX.h>
