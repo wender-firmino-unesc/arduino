@@ -84,7 +84,7 @@
 	 temp = "Senha: "; //retorna o String ao valor sem a concatenação
 	}
 	
-	*
+	 /*
 	 * escreveTela(String text, int x, int y,int size, boolean d) 
 	 * rotina para facilitar a escrita
 	 * text é a string que será apresentada
