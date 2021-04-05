@@ -1,5 +1,11 @@
-#include <LiquidCrystal.h>
+/*
+*  Estacionamento
+*  Código Arduino para simular um display que informa se a vaga está disponível ou não
+*  para isso é utilizado  um sensor ultrassônico
+*  Autor: Prof. Wender Firmino - wender@unesc.net
+*/
 
+#include <LiquidCrystal.h>
 
 const int rs = 12, en = 11, d4 = 13, d5 = 10, d6 = 9, d7 = 8;
 LiquidCrystal lcd(rs, en, d4, d5, d6, d7);
