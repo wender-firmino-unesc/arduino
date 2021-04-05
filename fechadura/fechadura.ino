@@ -1,3 +1,10 @@
+/*
+*  Fechadura
+*  Código Arduino para simular uma fechadura eletrônica
+*  para isso são utilizados um teclado numérico, 2 leds e um motor servo
+*  Autor: Prof. Wender Firmino - wender@unesc.net
+*/
+
 #include <Keypad.h>
 #include <Servo.h>
 
